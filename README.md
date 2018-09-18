@@ -14,3 +14,7 @@ What I will be giving marks for:
 4. Does the table have a box shadow
 
 [Click here to see the mock](https://htmlbasics.xyz/static/exercises/04/tablemock.png "Mockup")
+
+***
+
+## [Solution](https://assignment-two-waouqearft.now.sh/ "Solution")
