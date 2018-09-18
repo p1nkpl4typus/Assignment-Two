@@ -13,4 +13,4 @@ What I will be giving marks for:
 3. Does the font match the mockup
 4. Does the table have a box shadow
 
-[Click here to see the mock] (https://htmlbasics.xyz/static/exercises/04/tablemock.png "Mockup")
+[Click here to see the mock] (https://htmlbasics.xyz/static/exercises/04/tablemock.png)
